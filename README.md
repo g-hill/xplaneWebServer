@@ -2,6 +2,10 @@
 
 A lightweight web-based control panel for X-Plane 11/12 that allows you to monitor and control your aircraft through a browser interface.
 
+Use your sim's IP address in a browser on the local network (iPad, tablet, etc.) with port 8080.
+
+i.e., 192.168.1.12:8080
+
 ![Version](https://img.shields.io/badge/version-0.0.1b-blue.svg)
 ![X-Plane](https://img.shields.io/badge/X--Plane-11/12-green.svg)
 
